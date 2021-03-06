@@ -6,7 +6,7 @@ generate_series <- function(seed) {
 
   set.seed(seed)
 
-  n <- 100000
+  n <- 10000
   dat <- tibble(
     x = 1:n,
     y = c(rbridge(1, n)),
@@ -24,6 +24,9 @@ generate_series <- function(seed) {
     m <- end - start
     dat$y[start:end] <- dat$y[start:end] + c(rbridge(1, m + 1))
   }
+  for(i in 1:5000) {
+    dat$y <- (dat$y + c(dat$y[-1], 0) + c(0, dat$y[-n]))/3
+  }
 
   return(dat)
 
@@ -31,12 +34,12 @@ generate_series <- function(seed) {
 
 dat <- generate_series(4)
 
-long_dat <- map_dfr(100 + (1:5), generate_series)
+long_dat <- map_dfr(100 + (1:30), generate_series)
 
 
 pic <- ggplot(dat, aes(x,y, group = seed)) +
   geom_path(data = long_dat, colour = "#888888", size = .1) +
-  geom_path(colour = "#ff69b4") +
+  geom_area(colour = "#ff69b4", fill = "#ff69b4") +
   theme_void() +
   theme(plot.background = element_rect(
     fill = "#333333",
