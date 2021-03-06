@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Data Visualisation</title>
+    <link>/</link>
+    <description>Recent content in Home on Data Visualisation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assessment</title>
+      <link>/assessment/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/assessment/</guid>
+      <description>Assessment</description>
+    </item>
+    
+    <item>
+      <title>Materials</title>
+      <link>/materials/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/materials/</guid>
+      <description>Course Material</description>
+    </item>
+    
+  </channel>
+</rss>
