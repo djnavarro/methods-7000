@@ -6,12 +6,20 @@ summary: "Course Material"
 author: ""
 tags: []
 date: 2021-01-30
-rmd_hash: d81360c2890d2591
+rmd_hash: 5acb286ce8ddbcf8
 
 ---
 
 Course Material
 ===============
 
-Details TBA
+Workshop 1: Organising and documenting projects
+-----------------------------------------------
+
+One of the most important research skills that universities often fail to teach relates to project organisation. How should you name your files? Where should you keep your files? What can you do to make sure that your files are easy to find later? And how can you make it easier on someone else (or future you!) to make sense of what you've created? In this workshop, I'll provide some practical tips for how to think about these questions.
+
+-   Slides: [slides.djnavarro.net/project-structure](https://slides.djnavarro.net/project-structure)
+-   Videos: [youtube.djnavarro.net/project-structure](https://youtube.djnavarro.net/project-structure)
+
+<br><br>
 
