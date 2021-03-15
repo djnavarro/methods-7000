@@ -2,7 +2,7 @@
 output: hugodown::md_document
 title: Home
 summary: "Masters: Research Methods Workshops"
-rmd_hash: 9c9667de3cbfbc57
+rmd_hash: be70e06ef3560a11
 
 ---
 
@@ -18,12 +18,14 @@ For the most part [course materials](/materials) take the form of slides, pre-re
 Approximate schedule for term 1
 -------------------------------
 
--   Week 5: Organising and documenting a project (Danielle Navarro)
--   Week 7: Archiving and storing a project (Danielle Navarro)
+-   Week 5: Organising and structuring a project (Danielle Navarro)
+-   Week 7: Documenting and archiving a project (Danielle Navarro)
 -   Week 9: Thinking critically about scientific papers (Danielle Navarro)
 
 Topics for terms 2 and 3
 ------------------------
+
+The content for T2 and T3 is not yet finalised but likely to cover the following:
 
 -   Statistics without SPSS, part 1 (Danielle Navarro)
 -   Statistics without SPSS, part 2 (Danielle Navarro)
