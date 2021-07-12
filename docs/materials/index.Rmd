@@ -28,6 +28,7 @@ Data visualisation is a fundamental research task that is necessary in almost ev
 - Slides: [slides.djnavarro.net/starting-ggplot2](https://slides.djnavarro.net/starting-ggplot2)
 - Videos: [youtube.djnavarro.net/starting-ggplot2](https://youtube.djnavarro.net/starting-ggplot2)
 
+<br>
 
 ## Workshop 3: An introduction to R markdown
 
@@ -36,6 +37,14 @@ Most of us learn how to write documents using word processing software, such as 
 - Slides: [slides.djnavarro.net/starting-rmarkdown](https://slides.djnavarro.net/starting-rmarkdown)
 - Videos: [youtube.djnavarro.net/starting-rmarkdown](https://youtube.djnavarro.net/starting-rmarkdown)
 
+
+<br>
+
+## Workshops 4-6: Systematic review
+
+With the explosive growth in the scientific literature in the 21st century, sytematic review is an increasingly useful tool. It is concerned with the discovery, collation, critique and synthesis of subject areas that have multiple studies investigating the same underlying phenomenon. The goals of systematic review can include: making sense of conflicting findings, informing public policy, and identifying gaps in the literature. This three part workshop by Dr Matt Modini will lead you through the process of conducting a systematic review, covering such topics as meta-analysis, narrative review, meta-review, and more
+
+- Slides and Video (on UNSW Sharepoint): [here](https://unsw-my.sharepoint.com/:f:/g/personal/z2267271_ad_unsw_edu_au/EqcYEst5yYRKiyubhWdegNkBayF-gI_R1edXLRYHNAvtnA?e=07HP2w)
 
 
 <br>
